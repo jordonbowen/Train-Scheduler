@@ -1,5 +1,5 @@
 var config = {
-    apiKey: "AIzaSyCCA7_luuerDwFjfwKX6olLbemExWL5rhM",
+    apiKey: "AIzaSyCB8xxm-3gOKEe_o0E8qwb2LqAIQl7BpmM",
   authDomain: "train-scheduler-aa32c.firebaseapp.com",
   databaseURL: "https://train-scheduler-aa32c.firebaseio.com",
   storageBucket: "train-scheduler-aa32c.appspot.com",
