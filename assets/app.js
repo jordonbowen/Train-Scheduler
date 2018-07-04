@@ -3,7 +3,7 @@ var config = {
   authDomain: "train-scheduler-aa32c.firebaseapp.com",
   databaseURL: "https://train-scheduler-aa32c.firebaseio.com",
   storageBucket: "train-scheduler-aa32c.appspot.com",
-  messagingSenderId: "984681818802"
+  messagingSenderId: "984902017933"
 };
 firebase.initializeApp(config);
 
